@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Taviraj:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    background-color: black;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+header{
+    
+        background-color: black;
+        position: absolute;
+        width: 100px;
+        size:140px;
+        padding-right:1360px;
+}
+
+header hr{
+    position: absolute;
+    width: 1400px;
+}
+.world{
+    color:white;
+    position: absolute;
+    left:590px;
+    font-size:20px;
+}
+.logo{
+    position: relative;
+    left:690px;
+}
+
+.A{
+    position: absolute;
+}
+
+.A .a{
+    position: absolute;
+    width: 600px;
+    left:10px;
+    top:200px;
+}
+
+.A .aC { 
+    position: absolute;
+    top:200px;
+    white-space: nowrap;
+    left:270px;
+    color:white;
+}
+.A .aHatch{
+    position: absolute;
+    width: 600px;
+    left:800px;
+    top:200px;
+}
+
+.A .aH{
+    position: absolute;
+    width: 500px;
+    left:1040px;
+    top:200px;
+    color:white;
+}
+
+.A .b{
+    position: absolute;
+    width: 600px;
+    left:800px;
+    top:500px;
+}
+
+.A .bC{
+    position: absolute;
+    width: 500px;
+    left:1040px;
+    top:500px;
+    color:white;
+}
+
+.A .c{
+    position: absolute;
+    width: 600px;
+    left:10px;
+    top:500px;
+}
+
+.A .cC{
+    position: absolute;
+    width: 500px;
+    left:270px;
+    top:500px;
+    color:white;
+}
+
+.A .cla{
+    position: absolute;
+    width: 600px;
+    left:10px;
+    top:800px;
+}
+.A .cCla{
+    position: absolute;
+    width: 500px;
+    left:270px;
+    top:800px;
+    color:white;
+}
+
+.A .cle{
+    position: absolute;
+    width: 600px;
+    left:820px;
+    top:800px;
+}
+
+.A .cleC{
+    position: absolute;
+    width: 500px;
+    left:1070px;
+    top:800px;
+    color:white;
+}
+
+.A .cAll{
+    position: absolute;
+    width: 600px;
+    left:10px;
+    top:1100px;
+}
+
+.A .cAllT{
+    position: absolute;
+    width: 500px;
+    left:270px;
+    top:1100px;
+    color:white;
+}
+
+.A .cEs{
+    position: absolute;
+    width: 600px;
+    left:820px;
+    top:1100px;
+}
+
+.A .cEst{
+    position: absolute;
+    width: 500px;
+    left:1070px;
+    top:1100px;
+    color:white;
+}
+
+.A .cCab{
+    position: absolute;
+    width: 600px;
+    left:10px;
+    top:1400px;
+}
+
+.A .cCabt{
+    position: absolute;
+    width: 500px;
+    left:270px;
+    top:1400px;
+    color:white;
+}
+
+.A .e{
+    position: absolute;
+    width: 600px;
+    left:820px;
+    top:1400px;
+}
+
+.A .eT{
+    position: absolute;
+    width: 500px;
+    left:1070px;
+    top:1400px;
+    color:white;
+}
+
+.A .eqa{
+    position: absolute;
+    width: 600px;
+    left:10px;
+    top:1700px;
+}
+
+.A .eqaT{
+    position: absolute;
+    width: 500px;
+    left:270px;
+    top:1700px;
+    color:white;
+}
+
+.A .eqb{
+    position: absolute;
+    width: 600px;
+    left:820px;
+    top:1700px;
+}
+
+.A .eqbT{
+    position: absolute;
+    width: 500px;
+    left:1070px;
+    top:1700px;
+    color:white;
+}
+
+.A .eqe{
+    position: absolute;
+    width: 600px;
+    left:10px;
+    top:2000px;
+}
+
+.A .eqeT{
+    position: absolute;
+    width: 500px;
+    left:270px;
+    top:2000px;
+    color:white;
+}
+
+.A .eqs{
+    position: absolute;
+    width: 600px;
+    left:820px;
+    top:2000px;
+}
+
+.A .eqsT{
+    position: absolute;
+    width: 500px;
+    left:1070px;
+    top:2000px;
+    color:white;
+}
+
+.A .g{
+    position: absolute;
+    width: 600px;
+    left:10px;
+    top:2300px;
+}
+
+.A .gT{
+    position: absolute;
+    width: 500px;
+    left:270px;
+    top:2300px;
+    color:white;
+}
+
+.A .s{
+    position: absolute;
+    width: 600px;
+    left:820px;
+    top:2300px;
+}
+
+.A .sT{
+    position: absolute;
+    width: 500px;
+    left:1070px;
+    top:2300px;
+    color:white;
+}
